@@ -1,5 +1,8 @@
 BeReal — Let's BeReal Interest Circles
+
 Prototype link: https://vhalerie.github.io/bereal/bereal_prototype.html
+
+
 Prototype Instructions
 ==============================
 
